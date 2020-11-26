@@ -1,9 +1,5 @@
 # Working with Whole Genome Data
 
-Editor: 이화여자대학교 휴먼기계바이오공학부 1870021 김수아
-
-바이오데이터전산기초및실습 프로젝트
-
 # Program
 MATLAB
 
